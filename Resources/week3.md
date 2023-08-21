@@ -1,6 +1,6 @@
 # Week 36 - Resources 
 
-[:house: Main page](https://github.com/kokchun/AI-intro-AI22)
+[:house: Main page](https://github.com/everyloop/AI-intro-AI23)
 
 ## Articles :newspaper:
 
