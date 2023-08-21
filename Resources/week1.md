@@ -1,11 +1,10 @@
 # Week 34 - Resources 
 
-[:house: Main page](https://github.com/kokchun/AI-intro-AI22)
+[:house: Main page](https://github.com/everyloop/AI-intro-AI23)
 
 ## Lecture slides :book:
 
-- [Kokchun CV](https://github.com/kokchun/AI-intro-AI22/blob/main/Lectures/Kokchun_Giang_CV_presentation.pdf)
-- [Lecture 1 - intro to AI](https://github.com/kokchun/AI-intro-AI22/blob/main/Lectures/Lec1-Intro_to_AI.pdf)
+- [Lecture 1 - intro to AI](https://github.com/everyloop/AI-intro-AI23/blob/main/Lectures/Lec1-Intro_to_AI.pdf)
 
 ## Videos :video_camera:
 
