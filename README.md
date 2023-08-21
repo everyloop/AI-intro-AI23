@@ -5,7 +5,7 @@ This is a short popular science introduction course to Artificial Intelligence. 
 ---
 ## Plan
 
-For detailed time schedule [click here](https://github.com/kokchun/AI-intro-AI22/blob/main/Schedule_Intro_AI.md)
+For detailed time schedule [click here](https://www.ithsdistans.se/pluginfile.php/80993/mod_resource/content/0/Kursuppl%C3%A4gg.pdf)
 
 | Week     | Content                                    |
 | -------- | ------------------------------------------ |
