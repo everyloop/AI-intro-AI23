@@ -1,9 +1,9 @@
 # Week 35 - Resources 
 
-[:house: Main page](https://github.com/kokchun/AI-intro-AI22)
+[:house: Main page](https://github.com/everyloop/AI-intro-AI23)
 
 ## Lecture slides :book:
-- [Lecture 2 - AI history](https://github.com/kokchun/AI-intro-AI22/blob/main/Lectures/Lec2-AI_history.pdf)
+- [Lecture 2 - AI history](https://github.com/everyloop/AI-intro-AI23/blob/main/Lectures/Lec2-AI_history.pdf)
 
 ## Videos :video_camera:
 
