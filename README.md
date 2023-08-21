@@ -9,7 +9,7 @@ For detailed time schedule [click here](https://www.ithsdistans.se/pluginfile.ph
 
 | Week     | Content                                    |
 | -------- | ------------------------------------------ |
-| [34][w1] | intro, overview concepts, AI workflow      |
+| [34][w1] | intro, overview, concepts, AI workflow     |
 | [35][w2] | history, markdown, seminar preparations    |
 | [36][w3] | **seminar** (tuesday), **report** (friday) |
 
