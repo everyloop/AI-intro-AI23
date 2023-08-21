@@ -1,6 +1,6 @@
-# Intro to AI (AI21)
+# Intro to AI (AI23)
 
-This is a short popular science introduction course to Artificial Intelligence. All lecture materials can be found in the course [Github repo](https://github.com/kokchun/AI-intro-AI22).
+This is a short popular science introduction course to Artificial Intelligence. All lecture materials can be found in the course [Github repo](https://github.com/everyloop/AI-intro-AI23).
 
 ---
 ## Plan
@@ -9,15 +9,15 @@ For detailed time schedule [click here](https://github.com/kokchun/AI-intro-AI22
 
 | Week     | Content                                    |
 | -------- | ------------------------------------------ |
-| [34][w1] | intro, concepts, AI workflow               |
+| [34][w1] | intro, overview concepts, AI workflow      |
 | [35][w2] | history, markdown, seminar preparations    |
 | [36][w3] | **seminar** (tuesday), **report** (friday) |
 
-[w1]: https://github.com/kokchun/AI-intro-AI22/blob/main/Resources/week1.md
+[w1]: https://github.com/everyloop/AI-intro-AI23/blob/main/Resources/week1.md
 
-[w2]: https://github.com/kokchun/AI-intro-AI22/blob/main/Resources/week2.md
+[w2]: https://github.com/everyloop/AI-intro-AI23/blob/main/Resources/week2.md
 
-[w3]: https://github.com/kokchun/AI-intro-AI22/blob/main/Resources/week3.md
+[w3]: https://github.com/everyloop/AI-intro-AI23/blob/main/Resources/week3.md
 
 ---
 ## Resources
